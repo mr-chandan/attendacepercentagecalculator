@@ -15,11 +15,11 @@ export const metadata: Metadata = {
     title: "Attendance Checker - Track Your Class Attendance Easily",
     description:
       "Use this app to calculate your attendance percentage and figure out how many classes you need to attend or can miss.",
-    url: "https://yourwebsite.com",
+    url: "https://attendacepercentagecalculator.vercel.app/",
     siteName: "Attendance Checker",
     images: [
       {
-        url: "https://yourwebsite.com/og-image.jpg", 
+        url: "https://attendacepercentagecalculator.vercel.app/", 
         width: 1200,
         height: 630,
         alt: "Attendance Checker App",
@@ -79,11 +79,11 @@ export default function RootLayout({
           property="og:description"
           content="Use this app to calculate your attendance percentage and figure out how many classes you need to attend or can miss."
         />
-        <meta property="og:url" content="https://yourwebsite.com" />
+        <meta property="og:url" content="https://attendacepercentagecalculator.vercel.app/" />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://yourwebsite.com/og-image.jpg"
+          content="https://attendacepercentagecalculator.vercel.app/icons/icon-192x192.png"
         />
 
         {/* Twitter Meta Tags */}
@@ -98,7 +98,7 @@ export default function RootLayout({
         />
         <meta
           name="twitter:image"
-          content="https://yourwebsite.com/twitter-image.jpg"
+          content="https://attendacepercentagecalculator.vercel.app/icons/icon-192x192.png"
         />
 
         {/* Favicon and Apple Icons */}
