@@ -1,6 +1,6 @@
 {
     "name": "Attendance Checker",
-    "short_name": "AttendChecker",
+    "short_name": "AttendanceChecker",
     "theme_color": "#000000",
     "background_color": "#ffffff",
     "display": "standalone",
