@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description:
     "Easily calculate and track your class attendance. Find out how many classes you need to attend or can miss to achieve your desired attendance percentage.",
   keywords:
-    "attendance tracker, class attendance, attendance calculator, school attendance, college attendance, attendance management, bunk classes attendance percentage calculator , attendance to percentage , attendance 75 , 75 attendance ",
+    "attendance tracker, class attendance, attendance calculator, school attendance, college attendance, attendance management, bunk classes , attendance percentage calculator , attendance to percentage , attendance 75 , 75 attendance , attendance 75% , 75% attendance , attendance 75 percentage , 75 percentage attendance , college attendance , college attendance calculator",
   applicationName: "Attendance Checker",
   openGraph: {
     title: "Attendance Checker - Track Your Class Attendance Easily",
