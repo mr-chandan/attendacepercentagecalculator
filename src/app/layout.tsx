@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     siteName: "Attendance Checker",
     images: [
       {
-        url: "https://attendacepercentagecalculator.vercel.app/", 
+        url: "/homepage.png", 
         width: 1200,
         height: 630,
         alt: "Attendance Checker App",
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",
-    apple: "/apple-touch-icon.png",
+    apple: "/favicon.ico",
   },
   manifest: "/site.webmanifest",
 };
